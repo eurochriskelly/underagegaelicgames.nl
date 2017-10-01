@@ -1,0 +1,23 @@
+{
+  "name": "underagegaelicsports",
+  "version": "0.1.0",
+  "description": "Information about gaelic sports in the netherlands",
+  "main": "index.js",
+  "dependencies": {
+    "koa": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eurochriskelly/underagegaelicsports.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eurochriskelly/underagegaelicsports/issues"
+  },
+  "homepage": "https://github.com/eurochriskelly/underagegaelicsports#readme"
+}
